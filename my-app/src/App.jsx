@@ -291,7 +291,7 @@ function App() {
                 <li><a href="#" className="hover:text-gray-200 transition-colors">Реабилитация</a></li>
               </ul>
             </div>
-            
+            ///dasdad
             <div>
               <h3 className="text-xl font-bold mb-4">КОНТАКТЫ</h3>
               <div className="space-y-2">
